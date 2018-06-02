@@ -6,4 +6,4 @@ Lấy kết quả từ ``ketqua.net``.
 
 Dạng của câu lệnh::
 
-  script-xoso.py [NUMBER1] [NUMBER2] [...]
+  trung_xo_so.py [NUMBER1] [NUMBER2] [...]
