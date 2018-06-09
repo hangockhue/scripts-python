@@ -4,7 +4,6 @@ import sys
 
 user = sys.argv[1]
 api_content = requests.get("https://api.github.com/users/{}/repos".format(user))
-
 api_json = json.loads(api_content.text)
 if not api_json:
     print("User khong co respons")
