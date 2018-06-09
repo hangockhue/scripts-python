@@ -8,3 +8,5 @@ Lấy kết quả từ ``ketqua.net``.
 Dạng của câu lệnh::
 
   trung_xo_so.py [NUMBER1] [NUMBER2] [...]
+
+Nêú không có số trúng thì sẽ trả về tất cả các giải
